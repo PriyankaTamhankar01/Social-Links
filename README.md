@@ -30,7 +30,7 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
 
-- [Live Project URL](https://pages.github.com/)
+[Github Link](https://priyankatamhankar01.github.io/Social-Links/)
 
 
 ## Built with
