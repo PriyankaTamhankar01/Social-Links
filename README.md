@@ -1,12 +1,13 @@
 # Frontend Mentor - Social links profile
-
-![destkop-design](https://github.com/PriyankaTamhankar01/Social-Links/assets/90240653/31d5ba45-86d0-4e25-81bd-da1f554d2fb8)
-
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+
+
+![destkop-design](https://github.com/PriyankaTamhankar01/Social-Links/assets/90240653/31d5ba45-86d0-4e25-81bd-da1f554d2fb8)
+
 
 
 
